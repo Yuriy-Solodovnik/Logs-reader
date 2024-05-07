@@ -131,3 +131,15 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+*.vsidx
+*.v2
+*.bin
+.vs/Logs reader/FileContentIndex/bddcfcf8-5dec-4313-918d-2b190ec369d0.vsidx
+.vs/Logs reader/FileContentIndex/68ba960b-f317-4198-bbe1-53d9e8f1dd84.vsidx
+.vs/Logs reader/FileContentIndex/3fb08607-08be-4502-ae8d-0f6f2d0ed30b.vsidx
+.vs/Logs reader/FileContentIndex/12053085-75b2-47dd-9554-f62e2c5e1962.vsidx
+.vs/Logs reader/DesignTimeBuild/.dtbcache.v2
+.vs/Logs reader/v17/.futdcache.v2
+.vs/ProjectEvaluation/logs reader.metadata.v7.bin
+.vs/ProjectEvaluation/logs reader.projects.v7.bin
+/.vs
